@@ -9,6 +9,8 @@
 #   Nikolai Sharp
 #   Kaiqi Zhang
 
+#delete this
+
 import numpy as np
 import matplotlib.pyplot as plt
 import math
